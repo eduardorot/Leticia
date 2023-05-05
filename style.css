@@ -8,6 +8,7 @@ body{
     display: inline-block;
 }
 .opcoes{
+    margin: 1%;
     cursor: pointer;
     display: contents;
     width: 10%;
